@@ -1,4 +1,4 @@
-# Atom Browser
+# Rdocumentation Browser
 
 Rdocumentation-Browser is the plugin to browse the web, preview files, auto-reload, and search the Rdocumentation within Atom. It is forked from sean-codes atom-browser plugin.
 
