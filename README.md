@@ -15,3 +15,5 @@ Now when you save a file atom-browser will reload the page
 ## Search Rdocumentation.org
 
 Press `Ctrl-CMD-S`. Type your search term. Press Enter!
+
+![Atom google example](https://raw.githubusercontent.com/BerriJ/rdocumentation-browser/master/example_search.gif)
