@@ -15,7 +15,3 @@ Now when you save a file atom-browser will reload the page
 ## Search Rdocumentation.org
 
 Press `Ctrl-CMD-S`. Type your search term. Press Enter!
-
-## Features/Bugs/Help
-
-[Click Here: Will fix/add/help as soon as possible! Thank you! :) ](https://github.com/sean-codes/atom-browser/issues)
