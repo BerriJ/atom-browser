@@ -3,12 +3,12 @@
     "url": "https://github.com/sean-codes/atom-browser/issues"
   },
   "dependencies": {},
-  "description": "Atom-Browser is the plugin to browse the web, preview files, auto-reload, and search Google within Atom",
+  "description": "Rdocumentation-Browser is the plugin to browse the web, preview files, auto-reload, and search the Rdocumentation within Atom",
   "devDependencies": {},
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.0.0"
   },
-  "homepage": "https://github.com/sean-codes/atom-browser#readme",
+  "homepage": "https://github.com/berrij/rdocumentation-browser#readme",
   "keywords": [
     "browser",
     "preview",
