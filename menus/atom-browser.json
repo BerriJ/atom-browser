@@ -1,11 +1,11 @@
 {
    "context-menu":{
       "atom-text-editor":[
-         { "label": "Toggle Atom-Web", "command": "atom-browser:showHide" }
+         { "label": "Toggle Browser", "command": "atom-browser:showHide" }
       ],
       ".tree-view .full-menu":[
          {"type": "separator"},
-         { "label": "Atom Preview", "command":  "atom-browser:preview" }
+         { "label": "Browser Preview", "command":  "atom-browser:preview" }
       ]
   },
   "menu":[
