@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "main": "./lib/rdocumentation-browser",
-  "name": "Rdocumentation Browser",
+  "name": "rdocumentation-browser",
   "optionalDependencies": {},
   "readme": "Atom-Browser is the package to browse the web, preview files, auto-reload, and search Google within Atom",
   "readmeFilename": "README.md",
