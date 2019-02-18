@@ -1,3 +1,2 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+# 1.1.2
+Fixed a faulty reference. Now the browser starts. 
