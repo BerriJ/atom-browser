@@ -33,7 +33,7 @@
     "extensions": {
       ".js": [
         "lib\\atom-browser-view.js",
-        "lib\\atom-browser.js"
+        "lib\\rdocumentation-browser.js"
       ],
       ".json": [
         "package.json"
