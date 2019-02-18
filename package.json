@@ -20,7 +20,7 @@
   "main": "./lib/rdocumentation-browser",
   "name": "rdocumentation-browser",
   "optionalDependencies": {},
-  "readme": "Atom-Browser is the package to browse the web, preview files, auto-reload, and search Google within Atom",
+  "readme": "Atom-Browser is the package to browse the web, preview files, auto-reload, and search Rdocumentation.org within Atom",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
