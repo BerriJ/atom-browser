@@ -17,7 +17,7 @@
     "html preview"
   ],
   "license": "MIT",
-  "main": "./lib/rdocumentation-browser",
+  "main": "./lib/atom-browser",
   "name": "rdocumentation-browser",
   "optionalDependencies": {},
   "readme": "Atom-Browser is the package to browse the web, preview files, auto-reload, and search Rdocumentation.org within Atom",
@@ -33,7 +33,7 @@
     "extensions": {
       ".js": [
         "lib\\atom-browser-view.js",
-        "lib\\rdocumentation-browser.js"
+        "lib\\atom-browser.js"
       ],
       ".json": [
         "package.json"
